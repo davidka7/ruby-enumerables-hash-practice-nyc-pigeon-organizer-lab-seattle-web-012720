@@ -1,7 +1,7 @@
 def nyc_pigeon_organizer(data)
   # write your code here!
-  data
-  pp data
-  ["Theo", "Peter Jr.", "Lucky", "Ms. K", "Queenie", "Andrew", "Alex"]
   
+  pp data
+  new_data=["Theo", "Peter Jr.", "Lucky", "Ms. K", "Queenie", "Andrew", "Alex"]
+  new_data
 end
