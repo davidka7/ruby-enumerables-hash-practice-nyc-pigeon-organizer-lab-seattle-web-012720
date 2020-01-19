@@ -4,6 +4,6 @@ def nyc_pigeon_organizer(data)
   pp data
   new_data={}
   
-  data.each {                            }
+  data.each {||                          }
   new_data
 end
