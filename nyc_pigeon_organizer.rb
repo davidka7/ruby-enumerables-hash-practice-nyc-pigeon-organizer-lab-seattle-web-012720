@@ -2,7 +2,8 @@ def nyc_pigeon_organizer(data)
   # write your code here!
   
   pp data
-  new_data={|main1,main2|{|main3,name|{||   }}}
+  new_data={}
+  data.each{|main1,main2|main2.each{|main3,name|{||   }}}
   
   data.each {||                          }
   new_data
